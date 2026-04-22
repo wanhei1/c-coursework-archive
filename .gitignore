@@ -1,0 +1,19 @@
+# Binaries
+*.exe
+*.out
+*.obj
+*.o
+
+# Media not for repository
+*.mp4
+*.avi
+*.mov
+
+# Temporary files
+tempCodeRunnerFile.*
+*.tmp
+*.temp
+
+# Editor/OS noise
+.DS_Store
+Thumbs.db
